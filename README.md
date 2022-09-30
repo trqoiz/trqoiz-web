@@ -1,0 +1,2 @@
+# trqoiz-web
+Static Website
